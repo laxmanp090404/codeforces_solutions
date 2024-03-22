@@ -12,7 +12,7 @@ public class Team {
             arr[i] = sc.nextInt();
             if(arr[i]==1)count++;
         }
-        if(count > 1git)qcount++; 
+        if(count > 1)qcount++; 
         n--;
     }
     System.out.println(qcount);
